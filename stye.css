@@ -1,0 +1,16 @@
+body{
+    background-color: brown;
+    text-align: center;
+}
+h1{
+    color: aqua;
+}
+h2{
+    color: pink;
+}
+p{
+    color: yellow;
+}
+h1-color{
+    color: red;
+}
